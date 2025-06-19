@@ -1,3 +1,3 @@
 - sáng thứ Hai (8/6/2025) tôi đi xe bị trượt té một phát chỗ rừng Quảng Sơn đauvl, do chỗ dầu nhớt văng ra đường ấy, xui thật sự. xe cũng hơi xước thôi, gương méo một chút. Thế là tôi cũng nghĩ là phải đi bảo dưỡng xe... kết quả thiệt hại 2730k (bảo dưỡng) ngày 12/6/2025
-- Hôm nay [[2025-06-12]] tôi bắt đầu tìm hiểu về [[cách sử dụng Obisian]] wow 
+- Hôm nay [[2025-06-12]] tôi bắt đầu tìm hiểu về [[Obisian 101]] wow 
 - 
