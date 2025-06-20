@@ -1,5 +1,3 @@
+- [ ] dọn dẹp
 - [ ] đề xuất PH10 thanh toán converter PA01
-- [ ] phiếu đảng viên
-- [ ] rà soát thiết bị
-- [ ] hỗ trợ H05
 - [ ] [[1-7-2025]]
