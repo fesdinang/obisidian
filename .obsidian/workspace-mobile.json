@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test.md",
+            "file": "02_Areas/Optimize/Zettelkasten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,8 +170,9 @@
   },
   "active": "d6024f0fa5873a35",
   "lastOpenFiles": [
-    "02_Areas/Optimize/PARA.md",
+    "02_Areas/Optimize/Zettelkasten.md",
     "Test.md",
+    "02_Areas/Optimize/PARA.md",
     "02_Areas/Optimize/Obisian 101.md"
   ]
 }
