@@ -4,52 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "a596db6e506fdabc",
+        "id": "d6ed11ee98d927eb",
         "type": "tabs",
         "children": [
           {
-            "id": "bfbf681daa8aa2fc",
+            "id": "64ba77df1f7eb2f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Archive/Remember.md",
+                "file": "02_🌱 Areas/Zettelkasten/Fleeting Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remember"
+              "title": "Fleeting Notes"
             }
           },
           {
-            "id": "3d960993e876d105",
+            "id": "905ec1faf6bdf733",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Areas/Obisidian/Obisidian cheat sheet.md",
+                "file": "02_🌱 Areas/Zettelkasten/Literature Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obisidian cheat sheet"
+              "title": "Literature Notes"
             }
           },
           {
-            "id": "a7e589c5dc5658a2",
+            "id": "4fc0638ef1adb5eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Areas/Obisidian/Obisian 101.md",
-                "mode": "preview",
+                "file": "🧠 Zettelkasten.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obisian 101"
+              "title": "🧠 Zettelkasten"
+            }
+          },
+          {
+            "id": "2bc0eecc7d7bbe21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_🌱 Areas/Zettelkasten/Permanent Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Permanent Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_Archive/Remember.md",
+                "file": "02_🌱 Areas/Zettelkasten/Permanent Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Liên kết đến của Remember"
+              "title": "Liên kết đến của Permanent Notes"
             }
           },
           {
@@ -196,25 +211,38 @@
       "command-palette:Mở khay lệnh": false
     }
   },
-  "active": "1a2e459b8cec91c9",
+  "active": "2bc0eecc7d7bbe21",
   "lastOpenFiles": [
-    "Test.md",
-    "02_Areas/Obisidian/Obisidian cheat sheet.md",
-    "02_Areas/Obisidian/Obisian 101.md",
-    "02_Areas/Obisidian",
+    "🧠 Zettelkasten.md",
+    "04_📦 Archive/👀Review.md",
+    "🧭 Quản lý thời gian.md",
+    "📩 Inbox.md",
+    "04_Archive/Remember.md",
+    "📅 Ma trận Eisenhower.md",
+    "02_🌱 Areas/Zettelkasten/Permanent Notes.md",
+    "Stoicism.md",
+    "02_🌱 Areas/Zettelkasten/Literature Notes.md",
+    "02_🌱 Areas/Zettelkasten/Fleeting Notes.md",
+    "02_🌱 Areas/Zettelkasten",
+    "02_🌱 Areas/Optimize/Zettelkasten.md",
+    "02_🌱 Areas/Optimize/PARA.md",
+    "Chưa đặt tên 1.canvas",
+    "02_🌱 Areas/Obisidian/Obisidian cheat sheet.md",
+    "02_🌱 Areas/Obisidian/Obisian 101.md",
+    "2025-06-22.md",
+    "Chưa đặt tên.canvas",
+    "làm văn bản, báo cáo.md",
+    "Chưa đặt tên 1.md",
+    "02_Areas/Police/làm văn bản, báo cáo.md",
+    "03_Resources/Daily Journal/1-7-2025.md",
+    "01_🎯 Projects/Yao Project/Yao ideas.md",
+    "01_🎯 Projects/Yao Project/Yaodict.md",
+    "01_🎯 Projects/Yao Project/Yaokey.md",
+    "00_Inbox/Plan/to do.md",
     "00_Inbox/Plan/2025-06-12.md",
     "00_Inbox/Plan/việc chưa làm.md",
-    "00_Inbox/Review/Tuần này.md",
-    "00_Inbox/Quick note.md",
-    "03_Resources/Daily Journal/1-7-2025.md",
-    "2025-06-20.md",
-    "Chưa đặt tên.canvas",
-    "00_Inbox/Plan/to do.md",
-    "02_Areas/Police/làm văn bản, báo cáo.md",
-    "00_Inbox/Plan/bàn giao và chuẩn bị.md",
-    "02_Areas/Optimize/Zettelkasten.md",
-    "02_Areas/Optimize/PARA.md",
-    "03_Resources/Daily Journal",
-    "04_Archive/Remember.md"
+    "Test.md",
+    "02_🌱 Areas/Obisidian",
+    "03_Resources/Daily Journal"
   ]
 }

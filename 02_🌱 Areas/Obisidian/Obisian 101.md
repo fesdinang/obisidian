@@ -1,6 +1,4 @@
-Dưới đây là **cheat sheet Markdown thông dụng trong Obsidian**, được sắp xếp theo mức độ phổ biến giảm dần để bạn tiện tra cứu và sử dụng hiệu quả:
-
----
+----
 
 ## 📄 Văn bản Cơ bản
 
@@ -37,7 +35,6 @@ Giúp cấu trúc nội dung và tạo mục lục dễ dàng. Sử dụng dấu
 |**Danh sách chấm**|`- mục 1`|• mục 1|
 |**Danh sách số**|`1. mục 1`|1. mục 1|
 |**Danh sách lồng**|`- mục con`|▪ mục con|
-
 
 ---
 

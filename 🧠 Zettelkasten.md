@@ -1,0 +1,3 @@
+- [[Permanent Notes]]
+- [[Literature Notes]]
+- [[Fleeting Notes]]

@@ -1,4 +1,8 @@
+### to do
+- [ ] đề xuất PH10 thanh toán converter PA01
+- [ ] [[1-7-2025]]
 ### bàn giao
+
 - các tài khoản, mật khẩu
 - thống kê các thiết bị bộ phận 1 cửa
 - tổ chưc lại các thư mục, các file chuẩn bị học cách [[làm văn bản, báo cáo]]
